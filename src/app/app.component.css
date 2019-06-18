@@ -1,0 +1,14 @@
+.dd-container{
+   /* width: 40%; */
+    min-height: 500px;
+    background-color: whitesmoke;
+    margin: 1rem 0.5rem 0.5rem 1rem;
+    padding: 0 1rem;
+    flex: 1 1 auto;
+}
+
+.main-container{
+    display: flex;
+    flex-flow: wrap;
+    justify-content: space-evenly;
+}
